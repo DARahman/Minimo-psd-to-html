@@ -1,0 +1,282 @@
+*{margin: 0;
+padding: 0;}
+header{width: 90%;
+    background-color: white;
+    margin: auto;
+    overflow: hidden;
+    padding: 45px 0px 65px 0px;
+}
+.logo{width: 20%;
+    float: left;
+
+}
+nav{width: 60%;
+    float: right;
+    overflow: hidden;
+
+}
+nav ul{list-style: none;
+    float: right;
+    overflow: hidden;
+
+}
+nav ul li{float: left;
+    margin-left: 90px;
+    color: #626262;
+    font-size: 18px;
+    text-transform: uppercase;
+
+}
+.banner{width: 90%;
+    margin: auto;
+}
+.banner img{width: 100%;
+}
+.photodiary{width: 80%;
+    margin: auto;
+    padding: 55px 0px;
+
+}
+.photodiary h5{font-size: 16px;
+    text-transform: uppercase;
+    color: #b4ad9e;
+
+}
+.photodiary h1{ font-size: 32px;
+    text-transform: capitalize;
+    color: #626262;
+    margin: 20px 0;
+}
+.photodiary p, .item-one p, .item-two p, .item-three p, .item-four p, .itemfive p, .itemsix p {
+    color: #626262;
+    font-size: 16px;
+    margin-bottom: 30px;
+    line-height: 1.3;
+}
+.lifestyle{width: 80%;
+    margin: auto;
+
+}
+.content{overflow: hidden;
+
+}
+.item-one{width: 45%;
+    float: left;
+
+}
+.item-one img{width: 100%;}
+.item-one h1{font-size: 32px;
+    text-transform: capitalize;
+    color: #626262;
+    margin: 20px 0;
+
+}
+.item-one h5{font-size: 16px;
+    text-transform: uppercase;
+    color: #b4ad9e;
+    margin-top: 15px;
+
+}
+.item-one p{
+    
+}
+.item-two{width: 45%;
+    float: right;
+}
+.item-two img{width: 100%;}
+.item-two h1{font-size: 32px;
+    text-transform: capitalize;
+    color: #626262;
+    margin: 20px 0;
+
+}
+.item-two h5{font-size: 16px;
+    text-transform: uppercase;
+    color: #b4ad9e;
+    margin-top: 15px;
+
+}
+.item-two p{
+    
+}
+.item-three{width: 45%;
+    float: left;
+
+}
+.item-three img{width: 100%;}
+.item-three h1{font-size: 32px;
+    text-transform: capitalize;
+    color: #626262;
+    margin: 20px 0;
+
+}
+.item-three h5{font-size: 16px;
+    text-transform: uppercase;
+    color: #b4ad9e;
+    margin-top: 15px;
+
+}
+.item-three p{
+    
+}
+.item-four{width: 45%;
+    float: right;
+}
+.item-four img{width: 100%;}
+.item-four h1{font-size: 32px;
+    text-transform: capitalize;
+    color: #626262;
+    margin: 20px 0;
+
+}
+.item-four h5{font-size: 16px;
+    text-transform: uppercase;
+    color: #b4ad9e;
+    margin-top: 15px;
+
+}
+.item-four p{    
+}
+.newsletter{background-color: #f0f0f0;
+    margin-top: 15px;
+    padding: 60px 0;
+
+}
+.news{width: 31%;
+    margin: auto;
+    position: relative;
+
+}
+.news h1{font-size: 32px;
+    text-transform: capitalize;
+    color: #626262;
+    margin: 20px 0;
+
+}
+.news input{border: none;
+    background: transparent;
+    border-bottom: 1px solid black;
+    width: 100%;
+    margin-top: 50px;
+    padding: 10px 0;
+}
+.news input:focus{
+    outline: none;
+}
+.news input::placeholder{
+    text-transform: capitalize;
+}
+.icon{
+    padding: 8px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+.lifestyle2{width: 80%;
+    padding-top: 50px;
+    margin: auto;
+
+}
+.content3{overflow: hidden;
+}
+.itemfive{
+    width: 45%;
+    float: left;
+}
+.itemfive img{
+    width: 100%;
+}
+.itemfive h1{font-size: 32px;
+    text-transform: capitalize;
+    color: #626262;
+    margin: 20px 0;
+
+}
+.itemfive h5{font-size: 16px;
+    text-transform: uppercase;
+    color: #b4ad9e;
+    margin-top: 15px;
+
+}
+.itemfive p{
+    
+}
+.itemsix{
+    width: 45%;
+    float: right;
+}
+.itemsix img{
+    width: 100%;
+}
+.itemsix h1{font-size: 32px;
+    text-transform: capitalize;
+    color: #626262;
+    margin: 20px 0;
+
+}
+.itemsix h5{font-size: 16px;
+    text-transform: uppercase;
+    color: #b4ad9e;
+    margin-top: 15px;
+}
+.itemsix p{
+
+}   
+.btn{
+    text-align: center;
+    padding: 130px 0;
+}
+button{
+    border: none;
+    background: transparent;
+    border: 1px solid black;
+    padding: 15px 18px;
+    font-size: 20px;
+    text-transform: capitalize;
+    cursor: pointer;
+}
+.footer{background: #f0f0f0;
+    padding: 50px 0;
+
+}
+.footer-content{width: 80%;
+    margin: auto;
+    overflow: hidden;
+
+}
+.privacy{width: 30%;
+    float: left;
+
+}
+.privacy ul{
+
+}
+.privacy ul li{float: left;
+    list-style: none;
+    margin-right: 15px;
+    font-size: 17px;
+    text-transform: capitalize;
+    color: #626262;
+
+}
+.social-icon{width: 30%;
+    float: right;
+    overflow: hidden;
+
+}
+.social-icon ul{list-style: none;
+    margin: 0;
+    float: right;
+    overflow: hidden;
+
+}
+.social-icon ul li{float: left;
+    font-size: 17px;
+    text-transform: capitalize;
+    margin-left: 20px;
+    color: #626262
+
+}
+.social-icon ul li a{
+    color: #626262;
+}
